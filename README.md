@@ -20,10 +20,12 @@ The criteria for the project was as follows:
 # Team Members
 
 Our team was 6 dedicated individuals - 3 designers and 3 engineers
+
 Our 3 designers are 
 - Joseph Martin
 - Sandy De La Cruz
 - Denzell Harris
+  
 Our 3 engineers are
 - Lois Obrero
 - Zarena Brown
