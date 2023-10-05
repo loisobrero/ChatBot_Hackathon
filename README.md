@@ -2,7 +2,7 @@
 
 # Overview
 
-We were tasked with creating an educational platform for lifelong learners, offering personalized learning experiences. We need to implement design options to integrate AI-driven recommendations that encourage users to explore new subjects and skills at their own pace.
+We were tasked with creating an educational platform for lifelong learners, offering personalized learning experiences. We needed to implement design options to integrate AI-driven recommendations that encourage users to explore new subjects and skills at their own pace.
 
 # Criteria
 
